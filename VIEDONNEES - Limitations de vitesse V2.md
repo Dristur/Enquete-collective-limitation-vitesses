@@ -108,7 +108,7 @@ La **réduction des vitesses a des effets variés sur la qualité de l'air, selo
    
 D’après l’ADEME, **les réductions de vitesse au-delà de 70 km/h diminuent ces émissions, tandis qu’en deçà de ce seuil, l’effet peut devenir négatif**. Les vitesses optimales pour minimiser les émissions se situent entre 70 et 90 km/h (ADEME, 2014). Par ailleurs, des analyses montrent qu’une baisse des limitations de 130 à 110 km/h sur autoroute permet de réduire la consommation de carburant de 17 % pour les véhicules thermiques et de 24 % pour les véhicules électriques, renforçant ainsi les gains environnementaux (Aurélien Bigo, 2020).  
 
-![viedonnees2](viedonnees2.png)
+![viedonnees2](viedonnees12.png)
    
 ## **B.2) Les impacts indirects de la réduction des limitations de vitesse**  
    
@@ -119,7 +119,7 @@ Au-delà des effets immédiats, la **diminution des vitesses peut encourager un 
 La **vitesse influence également le bruit routier, bien que les réductions d’émissions sonores restent souvent modestes**. Par exemple, une diminution de la vitesse maximale de 90 à 80 km/h réduit l’intensité sonore d’environ un décibel, une variation généralement imperceptible par l’oreille humaine. Des études, telles que celles de BruitParif, indiquent que les réductions de bruit sont plus notables dans les zones à vitesse initiale comprise entre 50 et 90 km/h, mais qu’elles restent faibles, voire nulles, pour des vitesses supérieures. Le type de véhicules en circulation, notamment la proportion de poids lourds, joue également un rôle déterminant, pouvant neutraliser les bénéfices observés pour les véhicules légers (CEREMA, 2020).  
 		
 
-![viedonnees3](viedonnees3.png)
+![viedonnees3](viedonnees2.png)
 
 # **C. La volonté politique**
 
@@ -129,7 +129,7 @@ Au-delà des enjeux d’accidentalité et d’environnement, la détermination d
 
 Dans le cadre d’une étude réalisée en 2022, l’Observatoire national interministériel de la sécurité routière a estimé que le **coût total de l’insécurité routière en France en 2021 était de 46,3 milliards d’euros, soit 1,9% du PIB**. Le coût des accidents corporels s'établit quant à lui à 36,4 milliards d’euros, soit près de 80% du coût total.
 
-![][image3]
+![viedonnees3](viedonnees3.png)
 
 À cet égard, le principe de sécurité routière repose sur le principe que la prévention des accidents représente un coût économique moins élevé que celui d’en gérer les conséquences. Estimé à environ 50 milliards d’euros par an, cet impact englobe les coûts directs (tels que les soins médicaux) et les coûts indirects (telle que la perte de production liée aux incapacités et décès prématurés).
 
