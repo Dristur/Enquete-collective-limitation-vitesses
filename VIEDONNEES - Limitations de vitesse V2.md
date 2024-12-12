@@ -1,6 +1,6 @@
 # **VIE SOCIALE DES DONNÉES \- Automne 2024**
 
-![](https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg)
+![]([https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg](https://img.centrefrance.com/x0i_dVHo1oWcKxzgvrY-egBWj6uh29fpuSZ0V-64yEo/rs:fit:657:438:1:0/bG9jYWw6Ly8vMDAvMDAvMDQvNjMvMzUvMjAwMDAwNDYzMzUzOQ.webp)
 
 # **La détermination des limitations de vitesse**
 
