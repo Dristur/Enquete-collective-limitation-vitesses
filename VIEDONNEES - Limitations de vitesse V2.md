@@ -107,7 +107,8 @@ L'évolution des vitesses pratiquées a des répercussions sur les émissions de
 La **réduction des vitesses a des effets variés sur la qualité de l'air, selon les seuils de vitesse et les conditions de circulation**. Lors d’épisodes de pollution de l’air, comme en février 2023 à Paris, des mesures temporaires d’abaissement des vitesses maximales ont été instaurées, conduisant à des bénéfices mesurables sur les émissions de particules fines et d’oxydes d’azote (CEREMA, 2020).   
    
 D’après l’ADEME, **les réductions de vitesse au-delà de 70 km/h diminuent ces émissions, tandis qu’en deçà de ce seuil, l’effet peut devenir négatif**. Les vitesses optimales pour minimiser les émissions se situent entre 70 et 90 km/h (ADEME, 2014). Par ailleurs, des analyses montrent qu’une baisse des limitations de 130 à 110 km/h sur autoroute permet de réduire la consommation de carburant de 17 % pour les véhicules thermiques et de 24 % pour les véhicules électriques, renforçant ainsi les gains environnementaux (Aurélien Bigo, 2020).  
-![][image1]  
+
+![viedonnees2](viedonnees2.png)
    
 ## **B.2) Les impacts indirects de la réduction des limitations de vitesse**  
    
@@ -118,7 +119,7 @@ Au-delà des effets immédiats, la **diminution des vitesses peut encourager un 
 La **vitesse influence également le bruit routier, bien que les réductions d’émissions sonores restent souvent modestes**. Par exemple, une diminution de la vitesse maximale de 90 à 80 km/h réduit l’intensité sonore d’environ un décibel, une variation généralement imperceptible par l’oreille humaine. Des études, telles que celles de BruitParif, indiquent que les réductions de bruit sont plus notables dans les zones à vitesse initiale comprise entre 50 et 90 km/h, mais qu’elles restent faibles, voire nulles, pour des vitesses supérieures. Le type de véhicules en circulation, notamment la proportion de poids lourds, joue également un rôle déterminant, pouvant neutraliser les bénéfices observés pour les véhicules légers (CEREMA, 2020).  
 		
 
-![][image2]
+![viedonnees3](viedonnees3.png)
 
 # **C. La volonté politique**
 
