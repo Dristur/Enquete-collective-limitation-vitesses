@@ -161,7 +161,7 @@ Cette catégorie de la population représente un enjeu crucial pour la société
 
 À cet égard, les campagnes de sensibilisation ciblent spécifiquement cette tranche d’âge. La Sécurité Routière organise ainsi des interventions dans les écoles, universités et entreprises pour rappeler les dangers de la vitesse et de l’alcool au volant. Pour le législateur, la question de la vitesse au volant chez les jeunes populations est un levier de politiques publiques récurrent. Il a également justifié l’instauration d’un permis moto intermédiaire (A2) empêchant la conduite de deux-roues aux cylindrées trop importantes.
 
-# 3. **APPROCHE COMPAR֤ÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE**
+# 3. **APPROCHE COMPARÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE**
 
 ## **C.1) Aux Etats-Unis, l’approche de la Safety Zone :**
 
