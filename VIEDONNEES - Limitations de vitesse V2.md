@@ -181,7 +181,7 @@ Paradoxalement, la culture américaine se veut sévère quant au non-respect des
 
 Nous avons vu au travers du modèle américain qu’au-delà de la simple limitation de vitesse, l’architecture de la route compte tout autant si ce n’est plus. Ainsi, **l’aménagement des carrefours urbains** aux Pays-Bas permet de favoriser la coexistence entre plusieurs types d’usagers par le biais de revêtements d’asphalte différenciés. Ainsi, la route principale est en béton gris, tandis que les rues secondaires des zones résidentielles sont construites avec des pavés rouges de telle sorte qu’il y ait une différenciation visuelle qui incite les conducteurs à ralentir. Par ailleurs, une surélévation est prévue aux endroits d’insertion des véhicules pour forcer les automobilistes à réduire leur vitesse. Ainsi, l’intersection ci-dessous de la ville de Bois-le-Duc représente une conception issue des guides d'aménagement routier utilisés sur le territoire[^7].  
 
-![viedonnees8](viedonnees8.jpeg)
+![viedonnees8](viedonnees8.jpg)
 
 Par ailleurs, la vitesse est régulée sur le réseau autoroutier depuis 2020\. Ainsi, si la vitesse maximale sur autoroute est de 130km/h la nuit, celle-ci est abaissée à 100km/h en journée (de 6h à 19h)[^8].
 
@@ -189,7 +189,7 @@ Par ailleurs, la vitesse est régulée sur le réseau autoroutier depuis 2020\. 
 
 Enfin, le modèle allemand fait l’objet d’une spécificité en ce que l’Allemagne est le seul pays à ne pas avoir de limitation de vitesse sur les ⅔ des autoroutes allemandes. Bien que la vitesse maximale conseillée est 130km/h, les conducteurs peuvent la dépasser autant qu’ils le souhaitent tant que leur conduite ne met pas en danger les autres usagers. Le principe remonte aux années 1920s avec la création du réseau routier fédéral (Bundesautobahn) et s’est justifié économiquement comme un soutien au prestige de l’industrie automobile allemande et une possibilité offerte par la qualité des infrastructures routières. Bien que dépourvue de limitation de vitesse, la sécurité des autoroutes allemandes est toutefois assurée par une unité de police dédiée : l’Autobahnpolizei. Il est intéressant d’observer que les études montrent que l’Allemagne dispose de l’uns des réseaux autoroutiers les plus sûrs d’Europe avec 1,41 décès pour 1 milliard de km voyagés sur le réseau autoroutier allemand, contre 3,45 aux US, 2,13 en France et 3,66 en Italie[^9]. Pourtant, une partie significative de la population allemande remet en cause cet héritage et le développement d’un “tourisme de la vitesse”. 
 
-![viedonnees9](viedonnees9.jpeg)
+![viedonnees9](viedonnees9.jpg)
 
 [^1]:  Ordonnance du 14 août 1893 concernant le fonctionnement et la circulation, sur la voie publique. Préfecture de police. [Lien](http://www.paris1900.fr/wp-content/uploads/2012/10/code-route-1893-louis-lepine.pdf).
 
