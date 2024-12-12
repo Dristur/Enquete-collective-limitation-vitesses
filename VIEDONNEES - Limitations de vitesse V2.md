@@ -10,8 +10,8 @@
 # Table des matières
 * [INTRODUCTION](#introduction)
 * [HISTOIRE DE LA LIMITATION DE VITESSE](#histoire-de-la-limitation-de-vitesse)
-* [FACTEURS-CLÉS DE DÉTERMINATION](#facteurs-cles-de-determination)
-* [APPROCHE COMPAR֤ÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE](#approche-compar֤ee-des-initiatives-mises-en-œuvre-hors-de-france)
+* [FACTEURS-CLÉS DE DÉTERMINATION](#facteurs-clés-de-determination)
+* [APPROCHE COMPAR֤ÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE](#approche-compar֤ée-des-initiatives-mises-en-œuvre-hors-de-france)
 
 # **INTRODUCTION**
 
