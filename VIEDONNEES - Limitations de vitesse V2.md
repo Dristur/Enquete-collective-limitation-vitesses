@@ -1,6 +1,6 @@
 # **VIE SOCIALE DES DONNÉES \- Automne 2024**
 
-![viedonnees1](viedonnees1.png)
+![viedonnees1](viedonnees1.PNG)
 
 
 # **La détermination des limitations de vitesse**
