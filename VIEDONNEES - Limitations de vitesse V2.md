@@ -10,7 +10,7 @@
 * [FACTEURS-CLÉS DE DÉTERMINATION](#facteurs-cles-de-determination)
 * [APPROCHE COMPAR֤ÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE](#approche-compar֤ee-des-initiatives-mises-en-œuvre-hors-de-france)
 
-**INTRODUCTION**
+## **INTRODUCTION**
 
 En 2018, le gouvernement français décidait **l’abaissement de la limitation de vitesse à 80 km/h sur les routes secondaires** hors agglomération sans séparateur central. L’objectif principal de cette mesure était la réduction de la mortalité sur les routes de France. Quelques mois plus tard éclate un mouvement social sans précédent, dit des “Gilets Jaunes” qui donne lieu notamment à des occupations de ronds-points et à des destructions de radars de contrôle automatique de la vitesse. Le gouvernement reviendra finalement partiellement sur cette mesure en 2020, en donnant la possibilité aux conseils départementaux de revenir à 90 km/h sur certains tronçons. On voit bien ici les enjeux résultant de l’**indicateur que constitue la limitation de vitesse** (jeu de données \= les limitations de vitesse) qui intervient dans le quotidien de millions de Français et dont les effets dépassent la simple question de la régulation du trafic. 
 
