@@ -1,43 +1,3 @@
-**VIE SOCIALE DES DONNEES \- PROJET DE GROUPE**  
-**La détermination des limitations de vitesse**
-
-Présentation orale le 22/11 ou le **29/11** (pitching 5min avec 3 slides selon template). Puis écrit. 
-
-Objectif : Interroger la façon dont les limitations de vitesse maximale sont déterminées
-
-* A PRIORI : détermination objective selon les facteurs accidentogènes pour maximiser la sécurité routière  
-* MAIS : construit social avec différents inputs \+ instrument politique. En témoigne la diversité des systèmes dans le monde et notamment en Europe (Scandinavie vs Allemagne). 
-
-**Cahier des charges**  
-1\. Qui a créé ce jeu de données ? À quelles fins ? → Etat et sécurité routière  
-2\. Quelles catégories sont utilisées pour le représenter ? → vitesses 30/50/70/80/90/110/130  
-3\. Quels sont les usages de ce jeu de données ? → accidentalité / pollution sonore/environnementale / sanctions (radars) / péages  
-4\. Quelles sont les limites ou les critiques rencontrées par ce jeu données ? → pertinence \+ acceptabilité de la mesure \+ accidentalité (en pratique : différences de vitesse entre ceux qui respectent et ceux qui ne respect pas)  
-5\. Quelles réalités ces données/indicateurs sont-ils censés représenter ? → dimension politique
-
-**Cibles interview (Jeremy) :** 
-
-- Ingénieur → profil plus intéressant   
-- Asso  
-- Usagers (motards, automobilistes)
-
-1. **Introduction (Augustin)**  
-2. **Histoire (Augustin)**
-
-3. Facteurs (input) :  
-   1. **accidentalité (Antoine)** : type de routes, infrastructure  
-   2. **pollution (Anaïs)** : environnementale \+ sonore  
-   3. **politique (Mathis)** : au-delà de l’humanisme, enjeu économique → la prévention coûte moins cher que les morts sur la route \+ retards avec bouchons etc…
-
-	  
-	Effectuer des études de cas (90=\>80 / passage à 50 sur le périph \+ abaissement en ville à 30\)
-
-4. Limites → compilation de chaque facteur
-
-5. **Approche comparée (Martin)** : Etats-Unis, Allemagne, Pays-Bas, Suède
-
-**Rédaction**
-
 **VIE SOCIALE DES DONNÉES \- Automne 2024**
 
 **La détermination des limitations de vitesse**
@@ -46,11 +6,11 @@ Objectif : Interroger la façon dont les limitations de vitesse maximale sont d�
 
 **INTRODUCTION**
 
-	En 2018, le gouvernement français décidait **l’abaissement de la limitation de vitesse à 80 km/h sur les routes secondaires** hors agglomération sans séparateur central. L’objectif principal de cette mesure était la réduction de la mortalité sur les routes de France. Quelques mois plus tard éclate un mouvement social sans précédent, dit des “Gilets Jaunes” qui donne lieu notamment à des occupations de ronds-points et à des destructions de radars de contrôle automatique de la vitesse. Le gouvernement reviendra finalement partiellement sur cette mesure en 2020, en donnant la possibilité aux conseils départementaux de revenir à 90 km/h sur certains tronçons. On voit bien ici les enjeux résultant de l’**indicateur que constitue la limitation de vitesse** (jeu de données \= les limitations de vitesse) qui intervient dans le quotidien de millions de Français et dont les effets dépassent la simple question de la régulation du trafic. 
+En 2018, le gouvernement français décidait **l’abaissement de la limitation de vitesse à 80 km/h sur les routes secondaires** hors agglomération sans séparateur central. L’objectif principal de cette mesure était la réduction de la mortalité sur les routes de France. Quelques mois plus tard éclate un mouvement social sans précédent, dit des “Gilets Jaunes” qui donne lieu notamment à des occupations de ronds-points et à des destructions de radars de contrôle automatique de la vitesse. Le gouvernement reviendra finalement partiellement sur cette mesure en 2020, en donnant la possibilité aux conseils départementaux de revenir à 90 km/h sur certains tronçons. On voit bien ici les enjeux résultant de l’**indicateur que constitue la limitation de vitesse** (jeu de données \= les limitations de vitesse) qui intervient dans le quotidien de millions de Français et dont les effets dépassent la simple question de la régulation du trafic. 
 
-	Par limitation de vitesse, il faut entendre vitesse maximale autorisée fixée par l’autorité de police. Elle est ponctuelle, c’est à dire qu’elle porte sur un kilométrage limité et est portée à la connaissance des usagers par des panneaux. **A priori, la limitation de la vitesse apparaît comme une détermination objective selon les facteurs accidentogènes.** Il s’agit d’une mesure permettant de maximiser la sécurité des différents usagers de la route. Cependant, il faut constater que ce **jeu de données demeure une construction sociale et un instrument politique**. La diversité de systèmes dans le monde et notamment en Europe en témoigne, avec des fortes différences de politique de limitation de la vitesse selon les pays. 
+Par limitation de vitesse, il faut entendre vitesse maximale autorisée fixée par l’autorité de police. Elle est ponctuelle, c’est à dire qu’elle porte sur un kilométrage limité et est portée à la connaissance des usagers par des panneaux. **A priori, la limitation de la vitesse apparaît comme une détermination objective selon les facteurs accidentogènes.** Il s’agit d’une mesure permettant de maximiser la sécurité des différents usagers de la route. Cependant, il faut constater que ce **jeu de données demeure une construction sociale et un instrument politique**. La diversité de systèmes dans le monde et notamment en Europe en témoigne, avec des fortes différences de politique de limitation de la vitesse selon les pays. 
 
-	Il s’agira donc d’interroger la façon dont les limitations de vitesse maximale sont déterminées en prenant en compte différents facteurs. Dans un premier temps, un **retour historique** sur la limitation française de la vitesse permettra de constater qu’il s’agit d’une préoccupation ancienne mais qui s’est fortement accentuée récemment. Ensuite, une **analyse multifactorielle** permettra de mettre en évidence que les limitations de vitesse sont le fruit d’un construit social (facteurs scientifique, environnemental, politique). Enfin, une **analyse comparée** des politiques publiques en matière d’aménagement routier mettra en lumière qu’il n’existe pas de consensus international en la matière et que les relations entre vitesse et accidentalité sont complexes (États-Unis, Allemagne, Pays-Bas).
+Il s’agira donc d’interroger la façon dont les limitations de vitesse maximale sont déterminées en prenant en compte différents facteurs. Dans un premier temps, un **retour historique** sur la limitation française de la vitesse permettra de constater qu’il s’agit d’une préoccupation ancienne mais qui s’est fortement accentuée récemment. Ensuite, une **analyse multifactorielle** permettra de mettre en évidence que les limitations de vitesse sont le fruit d’un construit social (facteurs scientifique, environnemental, politique). Enfin, une **analyse comparée** des politiques publiques en matière d’aménagement routier mettra en lumière qu’il n’existe pas de consensus international en la matière et que les relations entre vitesse et accidentalité sont complexes (États-Unis, Allemagne, Pays-Bas).
 
 1. **HISTOIRE DE LA LIMITATION DE VITESSE**
 
