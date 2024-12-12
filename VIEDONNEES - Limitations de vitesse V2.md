@@ -4,13 +4,13 @@
 
 *Antoine ASSELIN \- Jéremy CHABOCHE \- Augustin DE MEAUX \- Martin PARNAUDEAU \- Mathis POIRIER \- Anaïs SERVAIS*
 
-## Table des matières
+# Table des matières
 * [INTRODUCTION](#introduction)
 * [HISTOIRE DE LA LIMITATION DE VITESSE](#histoire-de-la-limitation-de-vitesse)
 * [FACTEURS-CLÉS DE DÉTERMINATION](#facteurs-cles-de-determination)
 * [APPROCHE COMPAR֤ÉE DES INITIATIVES MISES EN OEUVRE HORS DE FRANCE](#approche-compar֤ee-des-initiatives-mises-en-œuvre-hors-de-france)
 
-## **INTRODUCTION**
+# **INTRODUCTION**
 
 En 2018, le gouvernement français décidait **l’abaissement de la limitation de vitesse à 80 km/h sur les routes secondaires** hors agglomération sans séparateur central. L’objectif principal de cette mesure était la réduction de la mortalité sur les routes de France. Quelques mois plus tard éclate un mouvement social sans précédent, dit des “Gilets Jaunes” qui donne lieu notamment à des occupations de ronds-points et à des destructions de radars de contrôle automatique de la vitesse. Le gouvernement reviendra finalement partiellement sur cette mesure en 2020, en donnant la possibilité aux conseils départementaux de revenir à 90 km/h sur certains tronçons. On voit bien ici les enjeux résultant de l’**indicateur que constitue la limitation de vitesse** (jeu de données \= les limitations de vitesse) qui intervient dans le quotidien de millions de Français et dont les effets dépassent la simple question de la régulation du trafic. 
 
@@ -18,9 +18,9 @@ Par limitation de vitesse, il faut entendre vitesse maximale autorisée fixée p
 
 Il s’agira donc d’interroger la façon dont les limitations de vitesse maximale sont déterminées en prenant en compte différents facteurs. Dans un premier temps, un **retour historique** sur la limitation française de la vitesse permettra de constater qu’il s’agit d’une préoccupation ancienne mais qui s’est fortement accentuée récemment. Ensuite, une **analyse multifactorielle** permettra de mettre en évidence que les limitations de vitesse sont le fruit d’un construit social (facteurs scientifique, environnemental, politique). Enfin, une **analyse comparée** des politiques publiques en matière d’aménagement routier mettra en lumière qu’il n’existe pas de consensus international en la matière et que les relations entre vitesse et accidentalité sont complexes (États-Unis, Allemagne, Pays-Bas).
 
-## 1. **HISTOIRE DE LA LIMITATION DE VITESSE**
+# 1. **HISTOIRE DE LA LIMITATION DE VITESSE**
 
-# 1. **Les débuts de la limitation de la vitesse (1893-1962)**
+## 1. **Les débuts de la limitation de la vitesse (1893-1962)**
 
 Alors que les premiers temps de l’automobile avaient donné lieu à de premières limitations de vitesse, les années 1920 voient finalement disparaître toute notion de limitation de la vitesse pour des véhicules dont les performances ne cessent de s’améliorer.
 
