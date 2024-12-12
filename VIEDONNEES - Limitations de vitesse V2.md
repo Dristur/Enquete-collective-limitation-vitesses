@@ -75,13 +75,18 @@ Un autre aspect crucial lié aux limitations de vitesse est leur impact sur le *
 
 En résumé, **les limitations de vitesse ont un effet direct sur la réduction de la mortalité routière en diminuant la gravité des accidents et en augmentant la capacité des conducteurs à réagir à temps**. Bien que ces mesures puissent parfois être impopulaires, elles ont prouvé leur efficacité en matière de sécurité et de préservation de vies humaines. Ainsi, si la vitesse est un facteur important de la mortalité sur les routes françaises, elle n’est pas le seul et d’autres pistes sont à explorer pour comprendre l’accidentalité sur les routes françaises. Ainsi les conditions d'entretien et le type de voies empruntées comptent grandement.
 
+![viedonnees112](viedonnees112.PNG)
+
 ## **A.2) Type de route : une cause majeure des accidents**
 
 Les différents **types de routes en France présentent des niveaux de risque variables**. Selon l’ONISR, l**es routes départementales et nationales concentrent environ 52 % des accidents mortels, alors qu'elles ne représentent que 40 % du trafic routier**. Plusieurs éléments expliquent ce constat : des limitations de vitesse plus élevées, des routes souvent à double sens sans séparation physique, et des croisements non régulièrement réglementés. ***Selon M. Ramond, c’est principalement ce manque d’aménagements qui est à l’origine de cette sur accidentalité des routes départementales et nationales.*** Les statistiques montrent que près de 25 % des accidents sur ces routes impliquent des collisions frontales.
 
 Les routes communales enregistrent près de 35 % des accidents corporels, selon les données de l’INSEE. Bien que ces accidents soient souvent moins graves que ceux sur les routes nationales, ils représentent un enjeu de sécurité significatif. La présence de piétons et de cyclistes augmente le risque, et près de 15 % des accidents impliquant des piétons ont lieu sur ce type de routes.
 
-En revanche, **les autoroutes, qui représentent 12 % du trafic routier, ne comptent que pour environ 7 % des accidents mortels**, selon l’ONISR. Cette proportion relativement basse s’explique par la présence d’infrastructures bien entretenues, de séparations physiques entre les voies, et de zones de sécurité. Les risques d’accidents sur autoroute sont principalement dus à la fatigue, qui est un facteur dans environ 20 % des accidents sur ces voies.\[3\]  
+En revanche, **les autoroutes, qui représentent 12 % du trafic routier, ne comptent que pour environ 7 % des accidents mortels**, selon l’ONISR. Cette proportion relativement basse s’explique par la présence d’infrastructures bien entretenues, de séparations physiques entre les voies, et de zones de sécurité. Les risques d’accidents sur autoroute sont principalement dus à la fatigue, qui est un facteur dans environ 20 % des accidents sur ces voies.\[3\]
+
+![viedonnees11](viedonnees11.PNG)
+
 Ainsi, si la vitesse est un facteur important de la mortalité sur les routes françaises, elle n’est pas le seul, comme le montre le faible taux de mortalité sur autoroute. Ainsi les conditions d'entretien et le type de voies empruntées comptent grandement.
 
 ## **A.3) L’infrastructure routière : un facteur déterminant**
