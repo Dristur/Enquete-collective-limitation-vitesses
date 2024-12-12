@@ -18,9 +18,9 @@ Par limitation de vitesse, il faut entendre vitesse maximale autorisée fixée p
 
 Il s’agira donc d’interroger la façon dont les limitations de vitesse maximale sont déterminées en prenant en compte différents facteurs. Dans un premier temps, un **retour historique** sur la limitation française de la vitesse permettra de constater qu’il s’agit d’une préoccupation ancienne mais qui s’est fortement accentuée récemment. Ensuite, une **analyse multifactorielle** permettra de mettre en évidence que les limitations de vitesse sont le fruit d’un construit social (facteurs scientifique, environnemental, politique). Enfin, une **analyse comparée** des politiques publiques en matière d’aménagement routier mettra en lumière qu’il n’existe pas de consensus international en la matière et que les relations entre vitesse et accidentalité sont complexes (États-Unis, Allemagne, Pays-Bas).
 
-1. **HISTOIRE DE LA LIMITATION DE VITESSE**
+## 1. **HISTOIRE DE LA LIMITATION DE VITESSE**
 
-1. **Les débuts de la limitation de la vitesse (1893-1962)**
+# 1. **Les débuts de la limitation de la vitesse (1893-1962)**
 
 Alors que les premiers temps de l’automobile avaient donné lieu à de premières limitations de vitesse, les années 1920 voient finalement disparaître toute notion de limitation de la vitesse pour des véhicules dont les performances ne cessent de s’améliorer.
 
@@ -32,7 +32,7 @@ La rupture majeure qui guidera la politique routière jusqu’à la seconde moit
 
 Si une réglementation est instaurée sous le régime de Vichy, celle-ci est abrogée à la Libération. Cette conception libérale reste donc la norme jusqu’en 1962\.
 
-2. **L’institutionnalisation de la limitation de vitesse (1962-1971)**
+# 2. **L’institutionnalisation de la limitation de vitesse (1962-1971)**
 
 La rupture majeure du XXe siècle en matière de limitation de la vitesse en France apparaît en **1962 avec la limitation de la vitesse en agglomération à 60 km/h** prise par un décret du 12 octobre.
 
@@ -42,7 +42,7 @@ Des progrès dans l’analyse des statistiques routières ont aussi été réali
 
 En pratique, la tolérance reste encore de mise sur les routes de France et ce n’est qu’en 1969 qu’un nouveau progrès survient avec la limitation à 90 km/h pour les nouveaux titulaires d’un permis (depuis moins d’un an).
 
-3. **Les nouveaux enjeux de sécurité routière (1970-aujourd’hui)**
+# 3. **Les nouveaux enjeux de sécurité routière (1970-aujourd’hui)**
 
 	Un nouveau moment de rupture survient en **1970 avec la convocation d’une “Table Ronde de sécurité routière”** à l’initiative du Premier ministre Jacques Chaban-Delmas qui prend cette cause particulièrement à cœur. C’est le début de politiques qui ne cesseront de se développer jusqu’à nos jours visant à mieux prendre en compte la sécurité des différents usagers de la route. La limitation de la vitesse est ainsi fixée à 100 km/h en 1972, avant 90 km/h en 1973\. Ces chiffres seront affinés avec des adaptations aux types de routes dans les années qui suivent  (120 km/h sur les routes à deux chaussées séparée par un terre-plein central en 1974, puis 110 km/h). 
 
