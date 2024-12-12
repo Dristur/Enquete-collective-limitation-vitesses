@@ -1,5 +1,7 @@
 # **VIE SOCIALE DES DONNÉES \- Automne 2024**
 
+![](https://www.leparisien.fr/resizer/zkKDiadbk8uJzSrxhv1xZ96g07Q=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JC5VXNGCHFGOHCHZXI6HCTRV5E.jpg)
+
 # **La détermination des limitations de vitesse**
 
 *Antoine ASSELIN \- Jéremy CHABOCHE \- Augustin DE MEAUX \- Martin PARNAUDEAU \- Mathis POIRIER \- Anaïs SERVAIS*
