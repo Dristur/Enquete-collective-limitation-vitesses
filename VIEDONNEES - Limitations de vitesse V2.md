@@ -23,6 +23,9 @@ Par limitation de vitesse, il faut entendre vitesse maximale autorisée fixée p
 
 Il s’agira donc d’interroger la façon dont les limitations de vitesse maximale sont déterminées en prenant en compte différents facteurs. Dans un premier temps, un **retour historique** sur la limitation française de la vitesse permettra de constater qu’il s’agit d’une préoccupation ancienne mais qui s’est fortement accentuée récemment. Ensuite, une **analyse multifactorielle** permettra de mettre en évidence que les limitations de vitesse sont le fruit d’un construit social (facteurs scientifique, environnemental, politique). Enfin, une **analyse comparée** des politiques publiques en matière d’aménagement routier mettra en lumière qu’il n’existe pas de consensus international en la matière et que les relations entre vitesse et accidentalité sont complexes (États-Unis, Allemagne, Pays-Bas).
 
+![viedonnees005](viedonnees005.png)
+
+
 # 1. **HISTOIRE DE LA LIMITATION DE VITESSE**
 
 ## 1. **Les débuts de la limitation de la vitesse (1893-1962)**
