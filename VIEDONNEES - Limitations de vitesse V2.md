@@ -205,7 +205,7 @@ Enfin, le modèle allemand fait l’objet d’une spécificité en ce que l’Al
 
 
 
-# BIBLIOGRAPHIE
+## BIBLIOGRAPHIE :
 
 [^1]:  Ordonnance du 14 août 1893 concernant le fonctionnement et la circulation, sur la voie publique. Préfecture de police. [Lien](http://www.paris1900.fr/wp-content/uploads/2012/10/code-route-1893-louis-lepine.pdf).
 
